@@ -1,6 +1,6 @@
 ToDo:
 [x] Resolver paginado con mas de 10 paginas
-[ ] Achicar los mini gifs
-[ ] Poner Mas columnas de gifs
+[x] Achicar los mini gifs
+[x] Poner Mas columnas de gifs
 [ ] Boton sobre el gif para verlo en grande
 [ ] Boton para Agregar al timeline

@@ -1,0 +1,12 @@
+.card-columns {
+    -webkit-column-count: 5!important;
+    -moz-column-count: 5!important;
+    column-count: 5!important;
+}
+.card-buttons {
+    padding: 5px;
+    opacity: 0;
+}
+.card-buttons:hover {
+    opacity: 1;
+}

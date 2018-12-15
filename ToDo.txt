@@ -2,5 +2,12 @@ ToDo:
 [x] Resolver paginado con mas de 10 paginas
 [x] Achicar los mini gifs
 [x] Poner Mas columnas de gifs
-[ ] Boton sobre el gif para verlo en grande
-[ ] Boton para Agregar al timeline
+[x] Boton sobre el gif para verlo en grande
+[x] Boton para Agregar al timeline
+---
+[x] Capturar el dragueo y reordenar el array
+[x] Boton de Tacho de basura en el timeline
+[x] Boton de View en el timeline
+[x] Que el search este vacio
+[x] Que el show search limpie lo que estaba antes? no, no es necesario
+[x] que si apreto enter en el field me busque
